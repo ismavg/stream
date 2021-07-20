@@ -2,7 +2,7 @@
 	"name"         : "modbus-stream",
 	"version"      : "0.46.0",
 	"author"       : "Diogo Resende <dresende@thinkdigital.pt>",
-	"repository"   : "https://github.com/node-modbus/stream",
+	"repository"   : "https://github.com/ismavg/stream",
 	"license"      : "MIT",
 	"keywords"     : [ "modbus", "serial", "rtu", "ascii", "tcp", "stream" ],
 	"main"         : "lib/modbus",
